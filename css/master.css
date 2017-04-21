@@ -1,0 +1,32 @@
+.inline-block {
+  display: inline-block;
+}
+
+.pin-left {
+  position: fixed;
+  top: 40px;
+  left: 20px;
+  width: auto;
+}
+
+.pin-right {
+  position: fixed;
+  top: 40px;
+  right: 20px;
+  width: auto;
+}
+
+.logo {
+  width: 30px;
+}
+
+.padding10 {
+  padding: 10px;
+}
+
+section div a {
+  text-decoration: none;
+  color: #f29d9c;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+}
