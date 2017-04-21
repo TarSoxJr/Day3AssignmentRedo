@@ -23,6 +23,10 @@
   padding: 10px;
 }
 
+.padding30 {
+  padding: 30px;
+}
+
 .padding50 {
   padding: 50px;
 }
@@ -47,12 +51,66 @@
    background: linear-gradient(to right, #cd3c73, #e95943);
 }
 
+.feature-heading {
+  font-size: 50px;
+  font-family: 'Raleway', sans-serif;
+  color: white;
+}
+
+.feature-subheading {
+  font-size: 17px;
+  color: #4c3328;
+  font-family: 'Raleway', sans-serif;
+}
+
+.feature-paragraph {
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  line-height: 1.5;
+}
+
+.pricing-full {
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
+}
+
+.pricing-sup {
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+}
+
 .redborder {
   border: solid 5px red;
 }
 
 .blueborder {
   border: solid 5px blue;
+}
+
+.button {
+  background-color: white;
+  color: #ed5e3f;
+  border-radius: 5px;
+  padding: 10px;
+  border: none;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.white-link {
+  color: white;
+}
+
+.underline-link {
+  text-decoration: underline;
+}
+
+hr {
+  border-top: 2px dashed #4c3328;
+  border-bottom: none;
 }
 
 section div a {
