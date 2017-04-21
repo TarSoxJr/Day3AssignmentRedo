@@ -4,14 +4,13 @@
 
 .pin-left {
   position: fixed;
-  top: 40px;
   left: 20px;
   width: auto;
 }
 
 .pin-right {
   position: fixed;
-  top: 40px;
+  top: 10px;
   right: 20px;
   width: auto;
 }
@@ -24,8 +23,36 @@
   padding: 10px;
 }
 
+.padding50 {
+  padding: 50px;
+}
+
+.width40percent {
+  width: 40%;
+}
+
+.width500px {
+  width: 500px;
+}
+
+.widthauto {
+  width: auto;
+}
+
+.margin-left-10percent {
+  margin-left: 10%;
+}
+
 .background-fill {
-  background-color: #e95943;
+   background: linear-gradient(to right, #cd3c73, #e95943);
+}
+
+.redborder {
+  border: solid 5px red;
+}
+
+.blueborder {
+  border: solid 5px blue;
 }
 
 section div a {
@@ -33,5 +60,5 @@ section div a {
   color: #f29d9c;
   font-family: 'Raleway', sans-serif;
   font-weight: bold;
-  align-items:
+  border-bottom:
 }
