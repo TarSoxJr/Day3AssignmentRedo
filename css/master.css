@@ -1,7 +1,7 @@
 .wrapper {
     margin: 0;
     width: 100%;
-    padding: 10px;
+    padding-bottom: 10px;
 }
 
 .feature-wrapper {
@@ -52,12 +52,8 @@
 }
 
 .logo {
-  width: 30px;
+  width: 35px;
   padding-top: 10px;
-}
-
-.cart {
-  width: 30px;
 }
 
 .padding10 {
