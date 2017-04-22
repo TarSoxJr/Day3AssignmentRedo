@@ -21,6 +21,7 @@
     display: inline-block;
 }
 
+
 .inline-block {
   display: inline-block;
 }
@@ -75,6 +76,10 @@
   padding-left: 10%;
 }
 
+.margin-left10px {
+  margin-left: 10px;
+}
+
 .padding-topbottom50px {
   padding-top: 50px;
   padding-bottom: 50px;
@@ -109,21 +114,21 @@
 }
 
 .feature-heading {
-  font-size: 50px;
-  font-family: 'Raleway', sans-serif;
+  font-size: 45px;
+  font-family: 'Roboto', sans-serif;
   color: white;
 }
 
 .feature-subheading {
-  font-size: 17px;
+  font-size: 14px;
   color: #4c3328;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 .feature-paragraph {
   color: white;
-  font-family: 'Raleway', sans-serif;
-  line-height: 1.5;
+  font-family: 'Roboto', sans-serif;
+  line-height: 2;
 }
 
 .feature-image {
@@ -132,33 +137,33 @@
 
 .pricing-full {
   color: white;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 30px;
 }
 
 .pricing-sup {
   color: white;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 20px;
 }
 
 .product-header {
   color: black;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 20px;
   font-weight: bold;
 }
 
 .product-sub-header {
   color: black;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 15px;
   font-weight: bold;
 }
 
 .product-content-paragraph {
   color: gray;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 .redborder {
@@ -179,7 +184,7 @@
   border-radius: 5px;
   padding: 10px;
   border: none;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: bold;
   font-size: 20px;
 }
@@ -197,21 +202,21 @@
   font-weight: bold;
   color: #4c3328;
   background-color: #fcefec;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   text-align: center;
 }
 
 .product-name-text {
   font-size: 30px;
   font-weight: bold;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: white;
 }
 
 .product-name-sub-text {
   font-size: 15px;
   color: #4c3328;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 .white-fill {
@@ -237,8 +242,8 @@ hr {
 section div a {
   text-decoration: none;
   color: #f29d9c;
-  font-family: 'Raleway', sans-serif;
-  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
 }
 
 #product-detail-seperator {
