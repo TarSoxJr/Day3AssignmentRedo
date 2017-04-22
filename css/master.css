@@ -41,6 +41,10 @@
   padding: 50px;
 }
 
+.width20percent {
+  width: 20%;
+}
+
 .width40percent {
   width: 40%;
 }
@@ -54,7 +58,7 @@
 }
 
 .widthauto {
-  width: auto;
+  width: 325px;
 }
 
 .margin-left-10percent {
@@ -170,6 +174,11 @@
 .footer-link {
   color: #4c3328;
   text-decoration: underline;
+  font-size: 14px;
+}
+
+.footer-text {
+  color: #4c3328;
   font-size: 14px;
 }
 
