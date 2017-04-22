@@ -1,5 +1,23 @@
+.wrapper {
+    margin: 0;
+    width: 100%;
+    padding: 10px;
+}
+
+.navigationwrap {
+    margin: 0;
+    width: 49%;
+    display: inline-block;
+}
+
 .inline-block {
   display: inline-block;
+}
+
+/* inline-block WILL add whitespace*/
+
+.right-align {
+  text-align: right;
 }
 
 .pin-left {
@@ -22,7 +40,8 @@
 }
 
 .logo {
-  width: 50px;
+  width: 30px;
+  padding-top: 10px;
 }
 
 .cart {
@@ -192,7 +211,6 @@ section div a {
   color: #f29d9c;
   font-family: 'Raleway', sans-serif;
   font-weight: bold;
-  border-bottom:
 }
 
 #product-detail-seperator {
