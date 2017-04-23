@@ -73,6 +73,10 @@
   padding-left: 10%;
 }
 
+.padding-left20percent {
+  padding-left: 20%;
+}
+
 .margin-left10px {
   margin-left: 10px;
 }
@@ -94,8 +98,8 @@
   width: 80%;
 }
 
-.width500px {
-  width: 500px;
+.width250px {
+  width: 250px;
 }
 
 .widthauto {
@@ -149,14 +153,14 @@
 }
 
 .product-header {
-  color: black;
+  color: #4c3328;
   font-family: 'Roboto', sans-serif;
   font-size: 20px;
   font-weight: bold;
 }
 
 .product-sub-header {
-  color: black;
+  color: #4c3328;
   font-family: 'Roboto', sans-serif;
   font-size: 15px;
   font-weight: bold;
